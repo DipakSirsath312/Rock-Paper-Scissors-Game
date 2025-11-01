@@ -63,4 +63,4 @@ Stone-paper-scissors/
 └── README.md
 
 # 🚀 Live Demo
-# Play : file:///D:/Stone-paper-scissors_Mini-Project/index.html
+

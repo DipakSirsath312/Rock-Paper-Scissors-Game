@@ -61,6 +61,3 @@ Stone-paper-scissors/
 │   
 │  
 └── README.md
-
-# 🚀 Live Demo
-
